@@ -1,0 +1,11 @@
+.flashable {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .flash-green {
+    background-color: rgb(13, 171, 10) !important;
+  }
+  
